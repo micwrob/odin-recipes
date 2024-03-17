@@ -1,1 +1,1 @@
-I'll learn basics of HTML, CSS3 and JS :)
+I'll learn basics of HTML with Odin.
